@@ -30,26 +30,10 @@ With these roles and features identified, you can begin designing the database s
 To ensure a comprehensive and functional LMS, your system should include the following features:
 
 # ✅ User Authentication
-- Secure registration and login system
-- Role-based access control
-
 # ✅ Course Management
-- Create, update, and delete courses
-- Assign instructors to courses
-- Student enrollment management
-
 # ✅ Content Delivery
-- Upload and organize videos, documents, and other materials
-- Structured lesson/module delivery
-
 # ✅ Assessment Tools
-- Quizzes, assignments, and exams
-- Auto and manual grading options
-
 # ✅ Communication Channels
-- Discussion forums for course interaction
-- Private messaging between users
-- Announcements for important updates
 
 # Step 3: Required Software and Tools
 
@@ -82,14 +66,14 @@ Follow these steps to set up and run the LMS on your local machine:
 3. Database Setup:
    - Open your browser and go to: `http://localhost/phpmyadmin/`
    - Click on the **Databases** tab.
-   - Create a new database named: `dblms`
+   - Create a new database named: `lms_db`
    - Go to the **Import** tab.
-   - Browse and select the `dblms.sql` file located inside the `db` folder of the project.
+   - Browse and select the `lms_db.sql` file located inside the `DB` folder of the project.
    - Click **Go** to import the database.
 
 4. Run the Project:
    - Open your browser and visit:  
-     `http://localhost/Online_Learning_Management_System`
+     `http://localhost/ELearning`
 
 # Login Credentials
 
@@ -99,3 +83,5 @@ Use the following default credentials to log in as an administrator:
 - **Password:** `admin`
 
 Once logged in, you’ll have full access to explore and use the LMS on your local machine.
+
+
