@@ -84,4 +84,4 @@ Use the following default credentials to log in as an administrator:
 
 Once logged in, you’ll have full access to explore and use the LMS on your local machine.
 
-
+![Screenshot 2025-04-13 161108](https://github.com/user-attachments/assets/9f4dc789-7b6f-4032-84d0-8d41d9fc7b4e)
