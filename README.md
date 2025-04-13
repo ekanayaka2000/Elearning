@@ -29,11 +29,11 @@ With these roles and features identified, you can begin designing the database s
 
 To ensure a comprehensive and functional LMS, your system should include the following features:
 
-*✅ User Authentication*
-*✅ Course Management*
-*✅ Content Delivery*
-*✅ Assessment Tools*
-*✅ Communication Channels*
+# *✅ User Authentication*
+# *✅ Course Management*
+# *✅ Content Delivery*
+# *✅ Assessment Tools*
+# *✅ Communication Channels*
 
 # Step 3: Required Software and Tools
 
